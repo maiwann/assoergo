@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Piou piou ! -- Association des élèves et anciens élèves en Ergonomie du CNAM Toulouse
+# Association des élèves et anciens élèves en Ergonomie du CNAM Toulouse
 
 ## Prochaine rencontre
 
