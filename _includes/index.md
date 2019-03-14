@@ -2,9 +2,13 @@
 layout: page
 ---
 
+# Piou piou ! -- Association des élèves et anciens élèves en Ergonomie du CNAM Toulouse
 
-# Coucou !
+## Prochaine rencontre
 
-## Inclue moi please
+Le Jeudi 21 mars à 18h 
+salle 321 du CNAM
 
-Oui plesae !
+
+
+## Les articles
