@@ -1,9 +1,3 @@
----
-
-layout: page
-
----
-
 # Association des élèves et anciens élèves en Ergonomie du CNAM Toulouse
 
 ## Prochaine rencontre
