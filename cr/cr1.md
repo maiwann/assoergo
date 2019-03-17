@@ -41,7 +41,8 @@ Pour répondre à ces problématiques, l'association a été créée avec plusie
    * Fête de remise des diplômes
    * Monter une structure officialisant l'association : **Fait !**
    * Mettre en place un Framateam c'est à dire une sorte de forum , un espace de discussion instantané organisé par thématique : **Fait !**
-   * *Vous pouvez le rejoindre par ici : *\url{*https://framateam.org/signup\_user\_complete/?id=qe77efmfe7yszjfhhmcuqspsdr*}
+   > Vous pouvez le rejoindre [Par ici](https://framateam.org/signup\_user\_complete/?id=qe77efmfe7yszjfhhmcuqspsdr)
+
    * Organiser des rencontres
    * Mettre en place des rencontres avec des pratiques innovantes (Forum Ouvert, Fishbowl…)
 L'association a donc été crée en juin 2018 afin d'initier ces premières actions. Le bureau se compose de Sophie: Présidente, Maïtané: Secrétaire et Mathilde: Trésorière.
@@ -63,12 +64,12 @@ L'association a donc été crée en juin 2018 afin d'initier ces premières acti
    * Organiser un réseau.
 
    * Partager les informations sur les différents événements
-       * RESACT (\url{http://resact-mp.com/)}
-       * SELF (\url{https://ergonomie-self.org/)}
+       * [RESACT](http://resact-mp.com/)
+       * [SELF](https://ergonomie-self.org/)
 
    * Partager les ressources
-       * ErgoListe (\url{https://groupes.renater.fr/sympa/info/ergoliste/)}
-       * ErgoIHM (\url{https://groupes.renater.fr/sympa/info/ergoihm/)}
+       * [ErgoListe](https://groupes.renater.fr/sympa/info/ergoliste/)
+       * [ErgoIHM](https://groupes.renater.fr/sympa/info/ergoihm/)
        * Mailing list des Ergonomes Hospitaliers
 
    * Lieu d'échanges sur les questionnements / bonnes pratiques en ergonomie.
