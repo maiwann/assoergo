@@ -17,11 +17,4 @@ salle 321 du CNAM
 
 ## Découvrir
 
-Piou
-{%- include summary_fiche.html -%}
-Piou piou
-
-
-Piou
 {%- include summary.html -%}
-Piou piou
