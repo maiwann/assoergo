@@ -17,4 +17,6 @@ salle 321 du CNAM
 
 ## Les articles
 
+Piou
 {%- include summary.html -%}
+Piou piou !
