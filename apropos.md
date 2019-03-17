@@ -24,11 +24,11 @@ Pour répondre à ces problématiques, l'association a été créée avec plusie
 
 ## Le bureau
 
-actuellement composé de
+Actuellement composé de :
 
-Sophie, la présidente
-Mathilde, la trésorière
-Maïtané, la secrétaire
+- Sophie, la présidente
+- Mathilde, la trésorière
+- Maïtané, la secrétaire
 
 ## L'adhésion
 
