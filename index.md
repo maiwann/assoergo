@@ -10,8 +10,8 @@ layout : default
 
 ## Prochaine rencontre
 
-Le **Jeudi 21 mars à 18h** 
-salle 321 du CNAM
+> Le **Jeudi 21 mars à 18h**
+> salle 321 du CNAM
 
 
 
