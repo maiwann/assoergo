@@ -1,3 +1,3 @@
-# Comptes Rendu de l'association
+# Comptes Rendu des réunions de l'association
 
 {%- include summary_cr.html -%}
