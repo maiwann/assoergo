@@ -2,7 +2,7 @@
 
 {%- include summary_fiche.html -%}
 
--    C'est quoi l'ergonomie ? 
+-    C'est quoi l'ergonomie ?
 > (qui compare avec les métiers systématiquement confondus, genre ergothérapeute)
 
 -    Les compétences de l'ergonome ? 
