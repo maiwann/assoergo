@@ -17,4 +17,4 @@ salle 321 du CNAM
 
 ## Les articles
 
-
+{%- include summary.html -%}
