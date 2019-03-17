@@ -20,7 +20,7 @@ salle 321 du CNAM
 Piou
 
 
-{%- include summary.html -%}
+{%- include summary_fiche.html -%}
 
 
 Piou piou !
