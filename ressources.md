@@ -17,5 +17,5 @@ title : Ressources Piou
 - Mailing list des Ergonomes Hospitaliers
 
 ## Évènements autour de l'ergonomie
-    * [RESACT](http://resact-mp.com/)
-    * [SELF](https://ergonomie-self.org/)
+- [RESACT](http://resact-mp.com/)
+- [SELF](https://ergonomie-self.org/)
