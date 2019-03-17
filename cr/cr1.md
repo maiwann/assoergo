@@ -45,8 +45,10 @@ Pour répondre à ces problématiques, l'association a été créée avec plusie
 
    * Organiser des rencontres
    * Mettre en place des rencontres avec des pratiques innovantes (Forum Ouvert, Fishbowl…)
+
 L'association a donc été crée en juin 2018 afin d'initier ces premières actions. Le bureau se compose de Sophie: Présidente, Maïtané: Secrétaire et Mathilde: Trésorière.
- L'association est ouverte à tous les élèves et anciens élèves désireux d'en faire partie. Pour l'instant une mail list  (d'environ 30 personnes) été crée à partir des retours au mail envoyé par Vanina.
+
+L'association est ouverte à tous les élèves et anciens élèves désireux d'en faire partie. Pour l'instant une mail list  (d'environ 30 personnes) été crée à partir des retours au mail envoyé par Vanina.
 
 ## Tour de table sur les envies et intentions de chacun
 
@@ -78,11 +80,11 @@ L'association a donc été crée en juin 2018 afin d'initier ces premières acti
 
    * Créer un réseau pour échanger entre élèves et ancien·nes élèves (pratiques, stages, emplois, retour d'expérience…)car :
 
-   * - Le monde du travail ne propose que peu de postes estampillés "Ergonome" mais plutôt "Chargé d'action en santé au travail" ...
+        - Le monde du travail ne propose que peu de postes estampillés "Ergonome" mais plutôt "Chargé d'action en santé au travail" ...
 
-   * - Peu de relations entre les différentes promotions du CNAM
-   *  -  Les informations récupérées au compte-goutte lorsque l'on commence la formation
-   * -  Complexité de savoir par où commencer lorsque l'on est confronté à la recherche d'un lieu de stage ou un emploi en ergonomie
+        - Peu de relations entre les différentes promotions du CNAM
+        -  Les informations récupérées au compte-goutte lorsque l'on commence la formation
+        -  Complexité de savoir par où commencer lorsque l'on est confronté à la recherche d'un lieu de stage ou un emploi en ergonomie
 
    * Indiquer aux futur·es ergonomes dans quelles filières professionnels ils/elles peuvent s'insérer.
 
