@@ -1,3 +1,8 @@
-# Compte-Rendu des réunions de l association
+# Sommaire des comptes-rendus
+
+Test A
 
 {%- include summary_cr.html -%}
+
+
+Test B
