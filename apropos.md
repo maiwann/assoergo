@@ -2,6 +2,7 @@
 
 layout : default
 title : A propos
+description: Une description pour tester
 
 ---
 # A propos
