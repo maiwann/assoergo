@@ -1,8 +1,7 @@
 ---
 
 layout : default
-title : A propos
-description: Une description pour tester
+description: "Pour plus d'informations sur l'association"
 
 ---
 # A propos
