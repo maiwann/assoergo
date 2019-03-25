@@ -1,3 +1,8 @@
+---
+
+layout : default
+
+---
 # A propos
 
 ## Pourquoi cette association ?
