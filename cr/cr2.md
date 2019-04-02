@@ -14,7 +14,7 @@ Association des Élèves et Anciens élèves en Ergonomie au CNAM Toulouse
 ## Le compte-rendu
 ### Explication sur les objectifs de l’association et son histoire
 
-Tout est expliqué dans la page [A propos](../apropos.html) 
+Tout est expliqué dans la page [A propos](../apropos.html)
 
 ### Point sur la création de Framateam et son utilisation
 
@@ -81,7 +81,7 @@ L’idée était de lister les ergonomes anciens élèves afin de savoir quels e
 ### Rencontre/ Evènement
 Il est relevé le besoin de créer une émulation autour de l’association pour la faire vivre et pour donner envie, une rencontre physique.
 Il est proposé une idée d’une rencontre autour d’un thème avec un temps d’échange (en mode Fish bowl ?) , ateliers ? puis partager un verre ensemble.
-Un premier thème est proposé ; suite à des demandes d’explications qui lui ont été faites par certains élèves,  Maïtané se propose de parler de son travail à savoir … à développer
+Un premier thème est proposé ; suite à des demandes d’explications qui lui ont été faites par certains élèves,  Maïtané se propose de parler de son travail à savoir la conception d'un logiciel métier pour le traitement des amendements.
 Si d’autres personnes connaissent des thèmes et des gens qui pourraient intervenir, ne pas hésiter à proposer…
 Le problème est de trouver le moment le plus opportun pour organiser cette rencontre :
 - un soir de semaine ? à priori il n y pas de cours au second semestre les jeudis soir.
