@@ -14,7 +14,7 @@ Association des Élèves et Anciens élèves en Ergonomie au CNAM Toulouse
 ## Le compte-rendu
 ### Explication sur les objectifs de l’association et son histoire
 
-> Expliquées dans le CR1 et la page à propos **mettre des liens**
+Tout est expliqué dans la page [A propos](../apropos.html) 
 
 ### Point sur la création de Framateam et son utilisation
 
@@ -36,15 +36,19 @@ Il y a des problèmes de connexions à internet quand on est au CNAM.
 
 ### Création d’un site internet de l’association
 Maïtané a crée un site internet de l’association. Le but est de ce site est de permettre :
+
     - Stocker des éléments (films, liens…) sur l’ergonomie
+
     - Faire connaitre les évènements et la vie de l’association [http://assoergo.maiwann.net/](http://assoergo.maiwann.net/)
 
 ### Documentation autour de l’ergonomie
 On est à la recherche de films de « vulgarisation », « explication » sur ce qu’est l’ergonomie.
+
 > Demander aux professeurs ou intervenants s’ils en connaissent. Puis mettre les liens sur le site.
 
 ### Bibliographie
 Il pourrait être intéressant de mettre à disposition des étudiants une bibliographie sur l’ergonomie.
+
 > Demander à Vanina et Irène leur TOP 10 et les recouper puis les mettre sur le site.
 
 ### Trouver un nom pour l’association
@@ -53,14 +57,17 @@ Des propositions ont été faites lors de la réunion :
  - Ergocnamtoulouse
  - Toulousergocnam
  - Assotoulousergocnam ( ATEC)
+
 >  Envoyer un mail à la mail list de l’asso pour demander des propositions
 
 ### Lien avec le RESACT
 Il serait intéressant d’avoir un lien avec le RESACT pour leur dire qu’on existe et pour être au courant de leur actualité pour pouvoir la relayer.
+
 > Ecrire un mail au RESACT et mettre Florence (ancienne auditrice) en copie.
 
 ### Lien avec le bureau des élèves du CNAM de Bordeaux et Paris
 Il serait intéressant de se mettre en lien avec l’association des élèves du CNAM de Bordeaux et Paris.
+
 > Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris. Voir avec Muriel et Alison ? ou Vanina ?
 
 ### Point sur la liste des anciens élèves et leur emploi actuel
@@ -80,8 +87,9 @@ Le problème est de trouver le moment le plus opportun pour organiser cette renc
 - un soir de semaine ? à priori il n y pas de cours au second semestre les jeudis soir.
 - un samedi fin de matinée en mode brunch ?
 
-  > Envoyer un mail pour faire un appel aux thèmes et proposer le thème de Maïtané
-  > Faire un sondage pour demander sous quel format faire cette rencontre ? soir/WE ?
+> Envoyer un mail pour faire un appel aux thèmes et proposer le thème de Maïtané
+
+> Faire un sondage pour demander sous quel format faire cette rencontre ? soir/WE ?
 
 
 ## Récapitulatif des actions à mener :
