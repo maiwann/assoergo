@@ -31,20 +31,21 @@ Vous pourrez ensuite, si vous le souhaitez:
 
 ### Problème de l’accès internet
 Il y a des problèmes de connexions à internet quand on est au CNAM.
-    > Demander à Myriam Moisset comment faire pour avoir les codes d’accès pour se connecter via le CNAM et les diffuser.
+
+> Demander à Myriam Moisset comment faire pour avoir les codes d’accès pour se connecter via le CNAM et les diffuser.
 
 ### Création d’un site internet de l’association
 Maïtané a crée un site internet de l’association. Le but est de ce site est de permettre :
     - Stocker des éléments (films, liens…) sur l’ergonomie
     - Faire connaitre les évènements et la vie de l’association [http://assoergo.maiwann.net/](http://assoergo.maiwann.net/)
 
-###Documentation autour de l’ergonomie
+### Documentation autour de l’ergonomie
 On est à la recherche de films de « vulgarisation », « explication » sur ce qu’est l’ergonomie.
-    > Demander aux professeurs ou intervenants s’ils en connaissent. Puis mettre les liens sur le site.
+> Demander aux professeurs ou intervenants s’ils en connaissent. Puis mettre les liens sur le site.
 
 ### Bibliographie
 Il pourrait être intéressant de mettre à disposition des étudiants une bibliographie sur l’ergonomie.
-    > Demander à Vanina et Irène leur TOP 10 et les recouper puis les mettre sur le site.
+> Demander à Vanina et Irène leur TOP 10 et les recouper puis les mettre sur le site.
 
 ### Trouver un nom pour l’association
 Il faudrait un nom court qui contienne les mots : ergonomie/ toulouse/CNAM
@@ -52,20 +53,22 @@ Des propositions ont été faites lors de la réunion :
  - Ergocnamtoulouse
  - Toulousergocnam
  - Assotoulousergocnam ( ATEC)
-    >  Envoyer un mail à la mail list de l’asso pour demander des propositions
+>  Envoyer un mail à la mail list de l’asso pour demander des propositions
 
 ### Lien avec le RESACT
 Il serait intéressant d’avoir un lien avec le RESACT pour leur dire qu’on existe et pour être au courant de leur actualité pour pouvoir la relayer.
-    > Ecrire un mail au RESACT et mettre Florence (ancienne auditrice) en copie.
+> Ecrire un mail au RESACT et mettre Florence (ancienne auditrice) en copie.
 
 ### Lien avec le bureau des élèves du CNAM de Bordeaux et Paris
 Il serait intéressant de se mettre en lien avec l’association des élèves du CNAM de Bordeaux et Paris.
-    > Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris. Voir avec Muriel et Alison ? ou Vanina ?
+> Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris. Voir avec Muriel et Alison ? ou Vanina ?
 
 ### Point sur la liste des anciens élèves et leur emploi actuel
 L’idée était de lister les ergonomes anciens élèves afin de savoir quels emplois ils occupent actuellement. Cela pourrait aider par exemple à se rendre compte à quel type d’annonces il faut postuler quand on cherche un travail après le master.
-    > Il faudrait envoyer un mail aux anciens élèves avec un tableau à remplir indiquant  NOM/ANNEES AU CNAM/ TYPE DE POSTE OCCUPE/QUELLE ENTREPRISE ?/VILLE
-    > Pour avoir un maximum de personnes il faudrait demander une liste des mails des anciens élèves à Myriam Moisset.
+
+> Il faudrait envoyer un mail aux anciens élèves avec un tableau à remplir indiquant  NOM/ANNEES AU CNAM/ TYPE DE POSTE OCCUPE/QUELLE ENTREPRISE ?/VILLE
+
+> Pour avoir un maximum de personnes il faudrait demander une liste des mails des anciens élèves à Myriam Moisset.
 
 
 ### Rencontre/ Evènement
@@ -82,19 +85,19 @@ Le problème est de trouver le moment le plus opportun pour organiser cette renc
 
 
 ## Récapitulatif des actions à mener :
-Si vous souhaiter participer aux actions suivantes (toutes les bonnes volontés sont les bienvenues et ne vous engagent à rien de plus ;-) ) n’hésitez pas à le faire savoir en envoyant un mail à l’association !
+Si **vous souhaitez participer aux actions suivantes (toutes les bonnes volontés sont les bienvenues et ne vous engagent à rien de plus ;-) )** n’hésitez pas à le faire savoir en envoyant un mail à l’association !
 
 Merci de votre aide !!!
 
 
-    - Demander à Myriam Moisset comment faire pour avoir les codes d’accès pour se connecter au CNAM et les diffuser.
-    - Demander aux professeurs ou intervenants s’ils connaissent des liens de films sur l’ergonomie. Puis mettre les liens sur le site.
-    - Demander à Vanina et Irène leur TOP 10 des livres sur l’ergonomie et les recouper puis mettre sur le site.
-    - Envoyer un mail à la mail list de l’asso pour demander des propositions de noms pour l’asso.
-    - Ecrire un mail au RESACT pour se présenter et mettre Florence (ancienne auditrice) en copie.
-    - Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris. Voir avec Muriel et Alison ? ou Vanina ?
-    - Il faudrait envoyer un mail aux anciens élèves avec un tableau à remplir indiquant  NOM/ANNEES AU CNAM/ TYPE DE POSTE OCCUPE/QUELLE ENTREPRISE ?/VILLE (Maïtané pour préparer le document)
-    - Pour avoir un maximum d’anciens élèves il faudrait demander une liste des mails des anciens élèves à Myriam Moisset.
-    - Envoyer un mail pour faire un appel aux thèmes pour la rencontre et proposer le thème de Maïtané
-    - Faire un sondage pour demander sous quel format faire cette rencontre ? soir/WE ? (Maïtané)
-    - Expliquer ce que c’est/ remettre le lien/ tuto pour activer les notifications (Maïtané)
+- Demander à Myriam Moisset comment faire pour avoir les codes d’accès pour se connecter au CNAM et les diffuser.
+- Demander aux professeurs ou intervenants s’ils connaissent des liens de films sur l’ergonomie. Puis mettre les liens sur le site.
+- Demander à Vanina et Irène leur TOP 10 des livres sur l’ergonomie et les recouper puis mettre sur le site.
+- Envoyer un mail à la mail list de l’asso pour demander des propositions de noms pour l’asso.
+- Ecrire un mail au RESACT pour se présenter et mettre Florence (ancienne auditrice) en copie.
+- Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris. Voir avec Muriel et Alison ? ou Vanina ?
+- Il faudrait envoyer un mail aux anciens élèves avec un tableau à remplir indiquant  NOM/ANNEES AU CNAM/ TYPE DE POSTE OCCUPE/QUELLE ENTREPRISE ?/VILLE (Maïtané pour préparer le document)
+- Pour avoir un maximum d’anciens élèves il faudrait demander une liste des mails des anciens élèves à Myriam Moisset.
+- Envoyer un mail pour faire un appel aux thèmes pour la rencontre et proposer le thème de Maïtané
+- Faire un sondage pour demander sous quel format faire cette rencontre ? soir/WE ? (Maïtané)
+- Expliquer ce que c’est/ remettre le lien/ tuto pour activer les notifications (Maïtané)
