@@ -1,6 +1,6 @@
 ---
 
-type : brouillon
+type : cr
 
 ---
 
