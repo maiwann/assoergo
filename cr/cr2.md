@@ -98,14 +98,24 @@ Si **vous souhaitez participer aux actions suivantes (toutes les bonnes volonté
 Merci de votre aide !!!
 
 
-- Demander à Myriam Moisset comment faire pour avoir les codes d’accès pour se connecter au CNAM et les diffuser.
-- Demander aux professeurs ou intervenants s’ils connaissent des liens de films sur l’ergonomie. Puis mettre les liens sur le site.
-- Demander à Vanina et Irène leur TOP 10 des livres sur l’ergonomie et les recouper puis mettre sur le site.
-- Envoyer un mail à la mail list de l’asso pour demander des propositions de noms pour l’asso.
-- Ecrire un mail au RESACT pour se présenter.
-- Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris.
-- Il faudrait envoyer un mail aux anciens élèves avec un tableau à remplir indiquant  NOM/ANNEES AU CNAM/ TYPE DE POSTE OCCUPE/QUELLE ENTREPRISE ?/VILLE (Maïtané pour préparer le document)
-- Pour avoir un maximum d’anciens élèves il faudrait demander une liste des mails des anciens élèves à Myriam Moisset.
-- Envoyer un mail pour faire un appel aux thèmes pour la rencontre et proposer le thème de Maïtané
-- Faire un sondage pour demander sous quel format faire cette rencontre ? soir/WE ? (Maïtané)
-- Expliquer ce que c’est/ remettre le lien/ tuto pour activer les notifications (Maïtané)
+[ ] Demander à Myriam Moisset comment faire pour avoir les codes d’accès pour se connecter au CNAM et les diffuser.
+
+[En cours] Demander aux professeurs ou intervenants s’ils connaissent des liens de films sur l’ergonomie. Puis mettre les liens sur le site.
+
+[En cours] Demander à Vanina et Irène leur TOP 10 des livres sur l’ergonomie et les recouper puis mettre sur le site.
+
+[x] Envoyer un mail à la mail list de l’asso pour demander des propositions de noms pour l’asso.
+
+[ ] Ecrire un mail au RESACT pour se présenter.
+
+[ ] Chercher les coordonnées des membres des bureaux des élèves de Bordeaux et Paris.
+
+[En cours] Il faudrait envoyer un mail aux anciens élèves avec un tableau à remplir indiquant  NOM/ANNEES AU CNAM/ TYPE DE POSTE OCCUPE/QUELLE ENTREPRISE ?/VILLE (Maïtané pour préparer le document)
+
+[En cours] Pour avoir un maximum d’anciens élèves il faudrait demander une liste des mails des anciens élèves à Myriam Moisset.
+
+[x] Envoyer un mail pour faire un appel aux thèmes pour la rencontre et proposer le thème de Maïtané
+
+[x] Faire un sondage pour demander sous quel format faire cette rencontre ? soir/WE ? (Maïtané)
+
+[ ] ~~Expliquer ce que c’est/ remettre le lien/ tuto pour activer les notifications (Maïtané)~~ (Les notifications sont réglées par défaut !)
